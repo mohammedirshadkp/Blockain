@@ -76,7 +76,6 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
-//
 /// https://stackoverflow.com/a/67452289/8095270
 class FlutterWebImageWithUrl extends StatelessWidget {
   const FlutterWebImageWithUrl({Key? key}) : super(key: key);

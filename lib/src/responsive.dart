@@ -37,7 +37,6 @@ class Responsive extends StatelessWidget {
       return tablet!;
     }
     // Or less then that we called it mobile
-    //
     else {
       return mobile;
     }
